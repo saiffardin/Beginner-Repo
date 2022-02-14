@@ -4,6 +4,8 @@ Format
 
 ## [Name](Github Link)
 
+## [Saif Chowdhury](https://github.com/saiffardin/)
+
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
